@@ -1,0 +1,13 @@
+#faça um programa que leia um número inteiro qualquer e mostre na tela a sua taboada.
+N1 = int(input('Digite um número interio qualquer: '))
+print('A taboada do número {} é: '.format(N1))
+print('{} x 1 = {}'.format(N1, N1*1))
+print('{} x 2 = {}'.format(N1, N1*2))
+print('{} x 3 = {}'.format(N1, N1*3))
+print('{} x 4 = {}'.format(N1, N1*4))
+print('{} x 5 = {}'.format(N1, N1*5))
+print('{} x 6 = {}'.format(N1, N1*6))
+print('{} x 7 = {}'.format(N1, N1*7))
+print('{} x 8 = {}'.format(N1, N1*8))
+print('{} x 9 = {}'.format(N1, N1*9))
+print('{} x 10 = {}'.format(N1, N1*10))
